@@ -1,0 +1,8 @@
+push button/sensor notices door open
+↓
+pi loadswebsite
+↓
+website run scrape script and load results averages and recommened clothes
+    
+↓
+pi either changes the lights or it communicates to the arduino what lights to turn on
